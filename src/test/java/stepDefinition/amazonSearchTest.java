@@ -14,7 +14,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class amazonLoginTest {
+public class amazonSearchTest {
 	WebDriver driver;
 	String parent;
 	@Given("User is on the home page")
